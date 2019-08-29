@@ -1,5 +1,5 @@
 count = 0
-
+a = 2
 
 def print_and_count(f):
     global count
